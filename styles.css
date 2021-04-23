@@ -477,6 +477,8 @@ footer .social-media a + a {
 #recipe #hero .container {
     padding: 0;
     position: relative;
+	left: unset;
+	transform: unset;
 }
 
 #recipe #hero {
